@@ -1,0 +1,18 @@
+# VS Code
+.vs/
+
+# FSH / IG
+.DS_Store
+Thumbs.db
+/fsh-generated
+/input-cache
+/output
+/template
+/temp
+
+# Validator
+/validator_cli.jar
+# PlantUML
+/plantuml.jar
+
+# more from https://github.com/FHIR/sample-ig/blob/master/.gitignore ?
